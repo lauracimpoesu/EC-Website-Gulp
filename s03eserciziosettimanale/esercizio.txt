@@ -1,0 +1,4 @@
+L'esercitazione finale della settimana 3 prevede la realizzazione completa di un sito composto da 3 pagine, secondo i mockup grafici di riferimento.
+Il sito potrà essere sviluppato tramite approcci differenti (tutto con bootstrap, mix flexbox + bootstrap, mix flexbox + codice CSS custom), sta al corsista la scelta più idonea.
+In caso di completamento anticipato, sarà bene ripulire il codice CSS non usato e minificare il tutto
+N.B. Il menù hamburger potrà essere inserito solo in automatico, in quanto non si hanno ancora le conoscenze (js e jquery) per farlo funzionare a dovere.

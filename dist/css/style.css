@@ -1,0 +1,128 @@
+/*  NAV */ 
+nav {
+    background-color: white;
+    box-shadow: 4px 2px 5px #aaaaaa;
+text-align: center;
+align-content: center;
+padding-top: 10px;
+}
+#logo {
+    width: 95px;
+    height: 30px;
+}
+#registrati {
+    color: white;
+    background: #36D1DC; 
+    background: -webkit-linear-gradient(to right #36D1DC, #5B86E5); 
+    background: linear-gradient(to right, #36D1DC, #5B86E5); 
+    color: white; 
+    border: none;
+    border-radius: 0.2rem;
+}
+
+/*  HEADER */ 
+header {
+    background-image: url('images/banner.jpg'); 
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 30rem;
+    padding-top: 10rem;
+    padding-left: 5rem;
+}
+header p {
+    color: white;
+    text-shadow: 1px 1px 1px rgb(61, 61, 61);   
+}
+#info, #scrivici, #button-addon2 {
+    padding: 0.5rem;
+    background: #36D1DC; 
+    background: -webkit-linear-gradient(to right #36D1DC, #5B86E5); 
+    background: linear-gradient(to right, #36D1DC, #5B86E5); 
+    color: white; 
+    border: none;
+    border-radius: 0.2rem;
+}
+#why {
+    text-align: center;
+    padding-bottom: 1rem;
+}
+.myWhy {
+    margin: 5rem; 
+    color: #272727; 
+}
+.myWhy h4 {
+    color: #0C0633; 
+}
+
+/*  MAIN */ /*  sections */
+p {
+    text-align: left; 
+}
+#why p {
+    text-align: center;
+}
+.chi {
+    background-color: #0C0633; 
+    color: white; 
+    text-align: center;
+    padding: 3rem; 
+}
+.chi p {
+    text-align: center;
+    color: #e6e6e6; 
+}
+
+#block {
+    text-align: center;
+    margin-top: 0.5rem;
+}
+i {
+    font-size: 25px;
+    margin-bottom: 1rem;
+    color: #E42424; 
+}
+
+#checks {
+    margin: 3rem;
+}
+
+#checks h4 {
+    color: #0C0633; 
+}
+
+#notebook {
+    width: 17rem;
+    height: 17rem;
+    margin-left: 7rem;
+    margin-bottom: 50px;
+}
+ul li {
+    list-style: none;
+}
+
+/*  FOOTER */
+footer {
+    margin-top: 2rem;
+}
+#socials {
+    color: #0C0633; 
+    font-size: 20px;
+    margin: 5px; 
+}
+h6 {
+    color: #0C0633; 
+}
+
+footer p {
+    padding-bottom: 0.3rem;
+}
+
+/*  other */ 
+ #scrivici {
+    margin-top: 20px;
+} 
+.container {
+    margin-top: 40px;
+}
+
